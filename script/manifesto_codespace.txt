@@ -1,0 +1,6 @@
+Open Source Manifesto
+Created on: 25 March 2026
+------------------------------------------
+I believe that tools like VLC Media Player empower the world because Accessibility is essential to progress.
+To contribute to this ecosystem, I commit to building Educational Scripts and sharing it openly,
+ensuring that knowledge remains a shared human resource.
